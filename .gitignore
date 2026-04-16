@@ -5,3 +5,5 @@ __pycache__/
 .DS_Store
 INTERVIEW.md
 .claude/
+CLAUDE.md
+INTERVIEW_CHEATSHEET.md
